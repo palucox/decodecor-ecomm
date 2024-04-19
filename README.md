@@ -35,4 +35,4 @@ Contributors
 
 License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this code for your own projects.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. Feel free to use, modify, and distribute this code for your own projects.
